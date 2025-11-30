@@ -12,7 +12,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "openai": "^4.24.0",
-    "@anthropic-ai/sdk": "^0.14.0"
+    "@anthropic-ai/sdk": "^0.14.0",
+    "recharts": "^2.10.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
